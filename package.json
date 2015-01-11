@@ -1,7 +1,7 @@
 {
     "name": "domoticz-gmail",
     "version": "0.0.1",
-    "description": "Fetchs email from a gmail account to update a domoticz virtual switch",
+    "description": "Fetch email from a gmail account to update a domoticz virtual switch",
     "repository": {
         "type": "git",
         "url": "https://github.com/sbebrone/domoticz-gmail.git"
