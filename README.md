@@ -10,4 +10,6 @@ See `config.yml.sample`.
 
 Once you've setup the `config.yml`, you can run the script by using:
 
-`node app.js`
+```
+node app.js
+```
