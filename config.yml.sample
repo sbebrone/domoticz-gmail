@@ -1,0 +1,9 @@
+google:
+  client-id: your_id
+  client-secret: your_client_secret
+  redirect-url: "http://localhost"
+  access-token: valid_access_token
+  refresh-token: valid_refresh_token
+domoticz:
+  host: "http://127.0.0.1:8080"
+  idx: 00 
