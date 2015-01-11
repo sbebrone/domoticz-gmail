@@ -1,16 +1,24 @@
 {
-  "name": "gmail-alert",
-  "version": "1.0.0",
-  "description": "Fetchs email from a gmail account",
-  "main": "gmail.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Stephane",
-  "license": "ISC",
-  "dependencies": {
-    "googleapis": "^1.0.22",
-    "js-yaml": "^3.2.5",
-    "request": "^2.51.0"
-  }
+    "name": "domoticz-gmail",
+    "version": "0.0.1",
+    "description": "Fetchs email from a gmail account to update a domoticz virtual switch",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sbebrone/domoticz-gmail.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sbebrone/domoticz-gmail/issues"
+    },
+    "homepage": "https://github.com/sbebrone/domoticz-gmail",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Stephane Bebrone",
+    "license": "MIT",
+    "dependencies": {
+        "googleapis": "^1.0.22",
+        "js-yaml": "^3.2.5",
+        "request": "^2.51.0"
+    }
 }
